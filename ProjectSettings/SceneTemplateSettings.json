@@ -58,6 +58,14 @@
         },
         {
             "userAdded": false,
+<<<<<<< HEAD
+=======
+            "type": "UnityEngine.PhysicMaterial",
+            "defaultInstantiationMode": 0
+        },
+        {
+            "userAdded": false,
+>>>>>>> ee051a4 (Initial commit)
             "type": "UnityEngine.PhysicsMaterial",
             "defaultInstantiationMode": 0
         },
@@ -84,7 +92,11 @@
         {
             "userAdded": false,
             "type": "UnityEditor.SceneAsset",
+<<<<<<< HEAD
             "defaultInstantiationMode": 1
+=======
+            "defaultInstantiationMode": 0
+>>>>>>> ee051a4 (Initial commit)
         },
         {
             "userAdded": false,

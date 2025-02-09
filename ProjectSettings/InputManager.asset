@@ -234,9 +234,15 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
+<<<<<<< HEAD
     positiveButton: joystick button 3
     altNegativeButton: 
     altPositiveButton: 
+=======
+    positiveButton: joystick button 0
+    altNegativeButton: 
+    altPositiveButton: joystick button 16
+>>>>>>> ee051a4 (Initial commit)
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -294,6 +300,25 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
+<<<<<<< HEAD
+=======
+    m_Name: Menu
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick button 7
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+>>>>>>> ee051a4 (Initial commit)
     m_Name: Enable Debug Button 1
     descriptiveName: 
     descriptiveNegativeName: 
@@ -485,3 +510,7 @@ InputManager:
     type: 2
     axis: 5
     joyNum: 0
+<<<<<<< HEAD
+=======
+  m_UsePhysicalKeys: 0
+>>>>>>> ee051a4 (Initial commit)
